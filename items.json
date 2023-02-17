@@ -1,0 +1,42 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "name": "WENDY The 1st Mini Album - 'Like Water' (Photo Book Ver.)",
+      "price": 3100,
+      "imgName": "Album1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Red Velvet Mini Album - 'The ReVe Festival 2022 - Feel My Rhythm'",
+      "price": 2600,
+      "imgName": "Album2.webp"
+    },
+    {
+      "id": 3,
+      "name": "SEULGI The 1st Mini Album - '28 Reasons' (Case Ver.)",
+      "price": 2500,
+      "imgName": "Album3.webp"
+    },
+    {
+      "id": 4,
+      "name": "The ReVe Festival 2022 - 'Birthday' (Cake Ver.)",
+      "price": 2800,
+      "imgName": "Album4.webp"
+    }
+  ],
+  "merch": [
+    {
+      "id": 5,
+      "name": "Keyring",
+      "price": 1800,
+      "imgName": "Keyring.webp"
+    },
+    {
+      "id": 6,
+      "name": "Lightstick",
+      "price": 5500,
+      "imgName": "Lightstick.webp"
+    }
+  ]
+}
